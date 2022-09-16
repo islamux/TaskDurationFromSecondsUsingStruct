@@ -23,15 +23,6 @@ using namespace std;
     /*     secondsInDay   =60*60*24
             secondsToDays =  floor(secondsFromUser /  secondsInDay) //? floor to use number without fractions 
             reminder = secondsFromUser % secondsInDay  //? mode to use it in secondsToHours                                                                        
-
-    # Steps
-        - 
-         ? Reading
-        
-         ? Calculation
-               int days = SecondsToDays() ==> floor
-                                SecondsToDaysMode() ==> reminder
-         ? Printing
 */
 
 int main(){
